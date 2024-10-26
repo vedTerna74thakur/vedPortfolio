@@ -1,0 +1,20 @@
+.resume-container {
+  text-align: center;
+  color: green;
+  margin-top: 20px;
+}
+
+a {
+  color: #00ff00;
+  text-decoration: none;
+}
+
+a:hover {
+  text-shadow: 0 0 10px #00ff00;
+}
+
+p {
+  font-size: 1.5rem;
+  color: #028702;
+  margin: 10px 0;
+}

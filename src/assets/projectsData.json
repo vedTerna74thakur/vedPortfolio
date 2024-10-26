@@ -1,0 +1,17 @@
+[
+  {
+    "title": "HRMS: Streamlining Human Resource Operations",
+    "description": "The Human Resource Management System (HRMS) is a comprehensive web application designed to facilitate efficient management of various HR tasks within an organization.",
+    "tools": "C# ASP.NET Core (Rest APIs), Typescript, PostgreSQL"
+  },
+  {
+    "title": "Information Model Dashboard – Schneider Electric",
+    "description": "The Information Model Dashboard is an advanced insights and analysis tool designed for Schneider Electric’s quotation system. This project was developed in collaboration with cross-functional teams at Schneider Electric.",
+    "tools": "MSSQL SERVER, SSIS, SSAS, Tableau"
+  },
+  {
+    "title": "Automated Invoice Maker",
+    "description": "This project was implemented for transporters. It automatically stores data and creates invoice of service done instead of manually maintaining data files and creating invoices saving ample of time.",
+    "tools": "React-JS"
+  }
+]

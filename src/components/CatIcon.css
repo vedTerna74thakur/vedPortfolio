@@ -1,0 +1,22 @@
+/* CatIcon.css */
+
+/* Container for positioning the icon */
+.cat-icon-container {
+  position: fixed;
+  top: 20px; /* Adjust distance from the top */
+  right: 20px; /* Adjust distance from the right */
+  z-index: 100; /* Ensure it's above other content */
+}
+
+/* Styling for the image */
+.cat-icon {
+  width: 50px; /* Adjust the size of the icon */
+  height: auto;
+  cursor: pointer; /* Change cursor to pointer */
+  transition: transform 0.3s ease;
+}
+
+/* Optional hover effect */
+.cat-icon:hover {
+  transform: scale(1.1); /* Slightly enlarge on hover */
+}
