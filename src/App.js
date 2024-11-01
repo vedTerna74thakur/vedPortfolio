@@ -7,7 +7,7 @@ import Projects from "./components/Projects";
 import Resume from "./components/Resume";
 import "./App.css";
 import ContactMe from "./components/ContactMe";
-import CatIcon from "./components/CatIcon";
+
 
 function App() {
   return (
